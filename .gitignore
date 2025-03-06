@@ -1,3 +1,6 @@
 *.zip
 *.tgz
 *.tar.gz
+*.cache
+tmp
+local.*
